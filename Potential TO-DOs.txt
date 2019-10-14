@@ -1,0 +1,1 @@
+Add a words per minute count, error count, randomized word array, and possibly even a high score board.
